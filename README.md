@@ -9,3 +9,11 @@ I am not a software developer, but as a Security Engineer I consider that writin
 Because Security Engineering work is not always around code, I use this platform to keep myself active. Even simple exercises are good for this goal.
 
 Lastly... **Go Python <3 :)**
+
+* * *
+
+Website: [linktr.ee/RSCyberTech](https://linktr.ee/RSCyberTech)
+
+Linkedin: [linkedin.com/in/ricardoams](https://www.linkedin.com/in/ricardoams)
+
+Exercism Profile: [exercism.org/profiles/RSCyberTech](https://exercism.org/profiles/RSCyberTech)
