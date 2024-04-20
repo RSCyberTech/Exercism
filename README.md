@@ -2,7 +2,7 @@
 
 This repo is to share the code I submit on the **Exercism** platform.
 
-Available at: [exercism.org](https://exercism.org/)
+Available at: [exercism.org](https://exercism.org/)
 
 I am not a software developer, but as a Security Engineer I consider that writing and (as important) reading code should be something one is used to.
 
