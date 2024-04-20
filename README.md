@@ -12,7 +12,7 @@ Lastly... **Go Python <3 :)**
 
 * * *
 
-Website: [linktr.ee/RSCyberTech](https://linktr.ee/RSCyberTech)
+Website: [RSCyberTech.com](https://linktr.ee/RSCyberTech)
 
 Linkedin: [linkedin.com/in/ricardoams](https://www.linkedin.com/in/ricardoams)
 
